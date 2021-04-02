@@ -18,8 +18,8 @@ bersih
 echo  "  $ {r} ┏━╮╭━┓
  $ {r} ┃┏┗┛┓┃
  $ {r} ╰┓▋▋┏╯       $ {h} ╔═══════════════════════════════════ ╗
-$ {r} ╭━┻╮╲┗━━━━╮╭╮ $ {h} ║    $ {u} * $ {p} Penulis    $ {r} : $ {c} Gabriel.S    $ {h} ║
-$ {r} ┃▎▎┃╲╲╲╲╲╲┣━╯ $ {h} ║      $ {p} Instagram $ {r} : $ {u} @gabriel          $ {h} ║
+$ {r} ╭━┻╮╲┗━━━━╮╭╮ $ {h} ║    $ {u} * $ {p} Penulis    $ {r} : $ {c} SANTRI CYBER $ {h} ║
+$ {r} ┃▎▎┃╲╲╲╲╲╲┣━╯ $ {h} ║      $ {p} Instagram $ {r} : $ {u} @AKKU_SANTUY      $ {h} ║
 $ {r} ╰━┳┻▅╯╲╲╲╲┃   $ {h} ║      $ {p} Youtube   $ {r} : $ {u} Pemenang              $ {h} ║
 $ {r}   ╰━┳┓┏┳┓┏╯   $ {h} ╚════════════════════════════════ ═══╝
 $ {r}     ┗┻┛┗┻┛ $ {k} \ n "
@@ -28,8 +28,8 @@ bersih
 echo  "  $ {r} ┏━╮╭━┓
  $ {r} ┃┏┗┛┓┃
  $ {r} ╰┓▋▋┏╯      
-$ {r} ╭━┻╮╲┗━━━━╮╭╮ $ {h}     $ {u} * $ {p} Penulis    $ {r} : $ {c} Gabriel.S    $ {h}
-$ {r} ┃▎▎┃╲╲╲╲╲╲┣━╯ $ {h}       $ {p} Instagram $ {r} : $ {u} @gabriel          $ {h}
+$ {r} ╭━┻╮╲┗━━━━╮╭╮ $ {h}     $ {u} * $ {p} Penulis    $ {r} : $ {c} SANTRI CYBER $ {h}
+$ {r} ┃▎▎┃╲╲╲╲╲╲┣━╯ $ {h}       $ {p} Instagram $ {r} : $ {u} @AKKU_SANTUY      $ {h}
 $ {r} ╰━┳┻▅╯╲╲╲╲┃   $ {h}       $ {p} Youtube   $ {r} : $ {u} Pemenang              $ {h}
 $ {r}   ╰━┳┓┏┳┓┏╯  
 $ {r}     ┗┻┛┗┻┛ "
